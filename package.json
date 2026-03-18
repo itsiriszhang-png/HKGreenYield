@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://itsiriszhang-png.github.io/HKGreenYield/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
